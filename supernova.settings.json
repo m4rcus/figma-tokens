@@ -5,7 +5,7 @@
         "core"
       ],
       "supernovaBrand": "Default",
-      "supernovaTheme": null
+      "supernovaTheme": "core"
   }],
   "settings": {
     "dryRun": false,
