@@ -1,10 +1,16 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Dec 2022 15:25:06 GMT
+ * Generated on Fri, 09 Dec 2022 15:58:03 GMT
  */
 
 :root {
-  --colors-neutral-0: #ffffff;
+  --colors-primary-main: #1c73e8;
+  --colors-primary-dark: #1969d3;
+  --colors-primary-light: #5996e9;
+  --colors-primary-contrast: #ffffff;
+  --colors-text-primary: #000000de;
+  --colors-text-secondary: #00000099;
+  --colors-text-disabled: #00000061;
   --colors-neutral-50: #F2F2F2;
   --colors-neutral-100: #E6E6E6;
   --colors-neutral-200: #CCCCCC;
@@ -15,7 +21,6 @@
   --colors-neutral-700: #4D4D4D;
   --colors-neutral-800: #333333;
   --colors-neutral-900: #1A1A1A;
-  --colors-neutral-1000: #000000;
   --colors-blickpunktfilm-50: #eff6f6;
   --colors-blickpunktfilm-100: #d7ebeb;
   --colors-blickpunktfilm-200: #a9dede;
@@ -86,6 +91,8 @@
   --colors-publyc-700: #662d75;
   --colors-publyc-800: #572764;
   --colors-publyc-900: #441e4e;
+  --colors-common-black: #000000;
+  --colors-common-white: #ffffff;
   --radius-xsmall: 2;
   --radius-small: 4;
   --radius-medium: 8;
@@ -101,5 +108,9 @@
   --spacing-3xlarge: 64;
   --spacing-4xlarge: 96;
   --spacing-5xlarge: 128;
+  --opacity-text-primary: 0.87;
+  --opacity-text-secondary: 0.6;
+  --opacity-text-disabled: 0.38;
   --token-set-order-0: core;
+  --token-set-order-1: default;
 }
