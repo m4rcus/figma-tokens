@@ -4,7 +4,7 @@
       "contained": {
         "default": {
           "background-color": {
-            "value": "#ec4654",
+            "value": "#00bbbb",
             "type": "color"
           },
           "text-color": {
@@ -14,7 +14,7 @@
         },
         "hover": {
           "background-color": {
-            "value": "#c54450",
+            "value": "#00aaaa",
             "type": "color"
           },
           "text-color": {
@@ -26,25 +26,25 @@
       "outlined": {
         "default": {
           "border-color": {
-            "value": "#ec465480",
+            "value": "#00bbbb80",
             "type": "color"
           },
           "text-color": {
-            "value": "#ec4654",
+            "value": "#00bbbb",
             "type": "color"
           }
         },
         "hover": {
           "border-color": {
-            "value": "#ec465480",
+            "value": "#00bbbb80",
             "type": "color"
           },
           "text-color": {
-            "value": "#ec4654",
+            "value": "#00bbbb",
             "type": "color"
           },
           "background-color": {
-            "value": "#ec46540a",
+            "value": "#00bbbb0a",
             "type": "color"
           }
         }
@@ -52,17 +52,17 @@
       "text": {
         "default": {
           "text-color": {
-            "value": "#ec4654",
+            "value": "#00bbbb",
             "type": "color"
           }
         },
         "hover": {
           "text-color": {
-            "value": "#ec4654",
+            "value": "#00bbbb",
             "type": "color"
           },
           "background-color": {
-            "value": "#ec46540a",
+            "value": "#00bbbb0a",
             "type": "color"
           }
         }
@@ -378,15 +378,15 @@
   "colors": {
     "primary": {
       "main": {
-        "value": "#ec4654",
+        "value": "#00bbbb",
         "type": "color"
       },
       "dark": {
-        "value": "#c54450",
+        "value": "#00aaaa",
         "type": "color"
       },
       "light": {
-        "value": "#ed5260",
+        "value": "#45c9c9",
         "type": "color"
       },
       "contrast": {
@@ -395,65 +395,65 @@
       },
       "shades": {
         "hover": {
-          "value": "#ec46540a",
+          "value": "#00bbbb0a",
           "type": "color"
         },
         "selected": {
-          "value": "#ec465414",
+          "value": "#00bbbb14",
           "type": "color"
         },
         "focus": {
-          "value": "#ec46541f",
+          "value": "#00bbbb1f",
           "type": "color"
         },
         "focus-30p": {
-          "value": "#ec46544d",
+          "value": "#00bbbb4d",
           "type": "color"
         },
         "enabled": {
-          "value": "#ec465480",
+          "value": "#00bbbb80",
           "type": "color"
         }
       },
       "palette": {
         "50": {
-          "value": "#fde8ea",
+          "value": "#eff6f6",
           "type": "color"
         },
         "100": {
-          "value": "#fad1d4",
+          "value": "#d7ebeb",
           "type": "color"
         },
         "200": {
-          "value": "#f5a3a9",
+          "value": "#a9dede",
           "type": "color"
         },
         "300": {
-          "value": "#f1747f",
+          "value": "#87d6d6",
           "type": "color"
         },
         "400": {
-          "value": "#ed5260",
+          "value": "#45c9c9",
           "type": "color"
         },
         "500": {
-          "value": "#ec4654",
+          "value": "#00bbbb",
           "type": "color"
         },
         "600": {
-          "value": "#c54450",
+          "value": "#00aaaa",
           "type": "color"
         },
         "700": {
-          "value": "#9e3740",
+          "value": "#009797",
           "type": "color"
         },
         "800": {
-          "value": "#762930",
+          "value": "#008181",
           "type": "color"
         },
         "900": {
-          "value": "#4f1b20",
+          "value": "#006565",
           "type": "color"
         }
       }
@@ -464,7 +464,7 @@
         "type": "color"
       },
       "default": {
-        "value": "#fde8ea",
+        "value": "#eff6f6",
         "type": "color"
       }
     },
@@ -2658,11 +2658,11 @@
       "type": "other"
     },
     "3": {
-      "value": "blickpunktfilm",
+      "value": "musikwoche",
       "type": "other"
     },
     "4": {
-      "value": "musikwoche",
+      "value": "blickpunktfilm",
       "type": "other"
     },
     "5": {
