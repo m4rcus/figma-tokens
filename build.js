@@ -32,7 +32,7 @@ function getStyleDictionaryConfig(theme) {
     "platforms": {
       "web": {
         "transforms": ["attribute/cti", "name/cti/kebab", "sizes/px"],
-        "buildPath": `output/`,
+        "buildPath": `variables/`,
         "files": [{
             "destination": `${theme}.css`,
             "format": "css/variables"          }]
