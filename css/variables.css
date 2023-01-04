@@ -1,21 +1,21 @@
 /**
  * Do not edit directly
- * Generated on Tue, 03 Jan 2023 23:55:48 GMT
+ * Generated on Wed, 04 Jan 2023 10:29:28 GMT
  */
 
 :root {
-  --button-primary-contained-default-background-color: #00bbbb;
+  --button-primary-contained-default-background-color: #ec4654;
   --button-primary-contained-default-text-color: #ffffff;
-  --button-primary-contained-hover-background-color: #00aaaa;
+  --button-primary-contained-hover-background-color: #c54450;
   --button-primary-contained-hover-text-color: #ffffff;
-  --button-primary-outlined-default-border-color: #00bbbb80;
-  --button-primary-outlined-default-text-color: #00bbbb;
-  --button-primary-outlined-hover-border-color: #00bbbb80;
-  --button-primary-outlined-hover-text-color: #00bbbb;
-  --button-primary-outlined-hover-background-color: #00bbbb0a;
-  --button-primary-text-default-text-color: #00bbbb;
-  --button-primary-text-hover-text-color: #00bbbb;
-  --button-primary-text-hover-background-color: #00bbbb0a;
+  --button-primary-outlined-default-border-color: #ec465480;
+  --button-primary-outlined-default-text-color: #ec4654;
+  --button-primary-outlined-hover-border-color: #ec465480;
+  --button-primary-outlined-hover-text-color: #ec4654;
+  --button-primary-outlined-hover-background-color: #ec46540a;
+  --button-primary-text-default-text-color: #ec4654;
+  --button-primary-text-hover-text-color: #ec4654;
+  --button-primary-text-hover-background-color: #ec46540a;
   --button-error-contained-default-background-color: #FF1414;
   --button-error-contained-default-text-color: #ffffff;
   --button-error-contained-hover-background-color: #E81212;
@@ -69,27 +69,27 @@
   --button-disabled-outlined-default-border-color: #0000001f;
   --button-disabled-outlined-default-text-color: #00000042;
   --button-disabled-text-default-text-color: #00000042;
-  --colors-primary-main: #00bbbb;
-  --colors-primary-dark: #00aaaa;
-  --colors-primary-light: #45c9c9;
+  --colors-primary-main: #ec4654;
+  --colors-primary-dark: #c54450;
+  --colors-primary-light: #ed5260;
   --colors-primary-contrast: #ffffff;
-  --colors-primary-shades-hover: #00bbbb0a;
-  --colors-primary-shades-selected: #00bbbb14;
-  --colors-primary-shades-focus: #00bbbb1f;
-  --colors-primary-shades-focus-30p: #00bbbb4d;
-  --colors-primary-shades-enabled: #00bbbb80;
-  --colors-primary-palette-50: #eff6f6;
-  --colors-primary-palette-100: #d7ebeb;
-  --colors-primary-palette-200: #a9dede;
-  --colors-primary-palette-300: #87d6d6;
-  --colors-primary-palette-400: #45c9c9;
-  --colors-primary-palette-500: #00bbbb;
-  --colors-primary-palette-600: #00aaaa;
-  --colors-primary-palette-700: #009797;
-  --colors-primary-palette-800: #008181;
-  --colors-primary-palette-900: #006565;
+  --colors-primary-shades-hover: #ec46540a;
+  --colors-primary-shades-selected: #ec465414;
+  --colors-primary-shades-focus: #ec46541f;
+  --colors-primary-shades-focus-30p: #ec46544d;
+  --colors-primary-shades-enabled: #ec465480;
+  --colors-primary-palette-50: #fde8ea;
+  --colors-primary-palette-100: #fad1d4;
+  --colors-primary-palette-200: #f5a3a9;
+  --colors-primary-palette-300: #f1747f;
+  --colors-primary-palette-400: #ed5260;
+  --colors-primary-palette-500: #ec4654;
+  --colors-primary-palette-600: #c54450;
+  --colors-primary-palette-700: #9e3740;
+  --colors-primary-palette-800: #762930;
+  --colors-primary-palette-900: #4f1b20;
   --colors-background-paper: #ffffff;
-  --colors-background-default: #eff6f6;
+  --colors-background-default: #fde8ea;
   --colors-error-50: #F8EFEF;
   --colors-error-100: #F2D9D9;
   --colors-error-200: #F2AEAE;
