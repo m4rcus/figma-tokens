@@ -35,9 +35,7 @@ function getStyleDictionaryConfig(theme) {
         "buildPath": `output/`,
         "files": [{
             "destination": `${theme}.css`,
-            "format": "css/variables",
-            "selector": `.${theme}-theme`
-          }]
+            "format": "css/variables"          }]
       }
     }
   };
