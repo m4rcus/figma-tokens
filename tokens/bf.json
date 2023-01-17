@@ -373,6 +373,10 @@
           }
         }
       }
+    },
+    "border-radius": {
+      "value": 4,
+      "type": "borderRadius"
     }
   },
   "colors": {
@@ -795,7 +799,7 @@
         "fontFamily": "IBM Plex Sans",
         "fontWeight": "SemiBold",
         "lineHeight": 20,
-        "fontSize": 15,
+        "fontSize": 14,
         "letterSpacing": 0.15,
         "textCase": "none"
       },
