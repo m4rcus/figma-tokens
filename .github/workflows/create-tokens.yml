@@ -11,11 +11,8 @@ jobs:
         uses: actions/setup-node@v2.4.0
       # Transform Figma Tokens JSON to something Style Dictionary can read
       - run: npx token-transformer tokens.json tokens/input.json
-      # - run: npx token-transformer tokens.json tokens/mw.json core,default,musikwoche,components/button core
-      # - run: npx token-transformer tokens.json tokens/bf.json core,default,blickpunktfilm,components/button core
       # Convert tokens according to Style Dictionary config
       - run: npx style-dictionary build --config sd.config.json
-      - run: node build.js
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
