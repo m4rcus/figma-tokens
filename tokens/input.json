@@ -373,6 +373,10 @@
           }
         }
       }
+    },
+    "border-radius": {
+      "value": 4,
+      "type": "borderRadius"
     }
   },
   "colors": {
