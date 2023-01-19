@@ -1,21 +1,21 @@
 /**
  * Do not edit directly
- * Generated on Thu, 19 Jan 2023 10:42:25 GMT
+ * Generated on Thu, 19 Jan 2023 12:07:56 GMT
  */
 
 :root {
-  --button-primary-contained-default-background-color: #00bbbb;
+  --button-primary-contained-default-background-color: #CE9317;
   --button-primary-contained-default-text-color: #ffffff;
-  --button-primary-contained-hover-background-color: #00aaaa;
+  --button-primary-contained-hover-background-color: #A57612;
   --button-primary-contained-hover-text-color: #ffffff;
-  --button-primary-outlined-default-border-color: #00bbbb80;
-  --button-primary-outlined-default-text-color: #00bbbb;
-  --button-primary-outlined-hover-border-color: #00bbbb80;
-  --button-primary-outlined-hover-text-color: #00bbbb;
-  --button-primary-outlined-hover-background-color: #00bbbb0a;
-  --button-primary-text-default-text-color: #00bbbb;
-  --button-primary-text-hover-text-color: #00bbbb;
-  --button-primary-text-hover-background-color: #00bbbb0a;
+  --button-primary-outlined-default-border-color: #ce931780;
+  --button-primary-outlined-default-text-color: #CE9317;
+  --button-primary-outlined-hover-border-color: #ce931780;
+  --button-primary-outlined-hover-text-color: #CE9317;
+  --button-primary-outlined-hover-background-color: #ce93170a;
+  --button-primary-text-default-text-color: #CE9317;
+  --button-primary-text-hover-text-color: #CE9317;
+  --button-primary-text-hover-background-color: #ce93170a;
   --button-error-contained-default-background-color: #FF1414;
   --button-error-contained-default-text-color: #ffffff;
   --button-error-contained-hover-background-color: #E81212;
@@ -70,27 +70,27 @@
   --button-disabled-outlined-default-text-color: #00000042;
   --button-disabled-text-default-text-color: #00000042;
   --button-border-radius: 4;
-  --colors-primary-main: #00bbbb;
-  --colors-primary-dark: #00aaaa;
-  --colors-primary-light: #45c9c9;
+  --colors-primary-main: #CE9317;
+  --colors-primary-dark: #A57612;
+  --colors-primary-light: #D8A945;
   --colors-primary-contrast: #ffffff;
-  --colors-primary-shades-hover: #00bbbb0a;
-  --colors-primary-shades-selected: #00bbbb14;
-  --colors-primary-shades-focus: #00bbbb1f;
-  --colors-primary-shades-focus-30p: #00bbbb4d;
-  --colors-primary-shades-enabled: #00bbbb80;
-  --colors-primary-palette-50: #eff6f6;
-  --colors-primary-palette-100: #d7ebeb;
-  --colors-primary-palette-200: #a9dede;
-  --colors-primary-palette-300: #87d6d6;
-  --colors-primary-palette-400: #45c9c9;
-  --colors-primary-palette-500: #00bbbb;
-  --colors-primary-palette-600: #00aaaa;
-  --colors-primary-palette-700: #009797;
-  --colors-primary-palette-800: #008181;
-  --colors-primary-palette-900: #006565;
+  --colors-primary-shades-hover: #ce93170a;
+  --colors-primary-shades-selected: #ce931714;
+  --colors-primary-shades-focus: #ce93171f;
+  --colors-primary-shades-focus-30p: #ce93174d;
+  --colors-primary-shades-enabled: #ce931780;
+  --colors-primary-palette-50: #FAF4E8;
+  --colors-primary-palette-100: #F5E9D1;
+  --colors-primary-palette-200: #EBD4A2;
+  --colors-primary-palette-300: #E2BE74;
+  --colors-primary-palette-400: #D8A945;
+  --colors-primary-palette-500: #CE9317;
+  --colors-primary-palette-600: #A57612;
+  --colors-primary-palette-700: #7C580E;
+  --colors-primary-palette-800: #4D3709;
+  --colors-primary-palette-900: #2D2005;
   --colors-background-paper: #ffffff;
-  --colors-background-default: #eff6f6;
+  --colors-background-default: #FAF4E8;
   --colors-error-50: #F8EFEF;
   --colors-error-100: #F2D9D9;
   --colors-error-200: #F2AEAE;
@@ -194,16 +194,16 @@
   --colors-neutral-700: #4D4D4D;
   --colors-neutral-800: #333333;
   --colors-neutral-900: #1A1A1A;
-  --colors-blickpunktfilm-50: #eff6f6;
-  --colors-blickpunktfilm-100: #d7ebeb;
-  --colors-blickpunktfilm-200: #a9dede;
-  --colors-blickpunktfilm-300: #87d6d6;
-  --colors-blickpunktfilm-400: #45c9c9;
-  --colors-blickpunktfilm-500: #00bbbb;
-  --colors-blickpunktfilm-600: #00aaaa;
-  --colors-blickpunktfilm-700: #009797;
-  --colors-blickpunktfilm-800: #008181;
-  --colors-blickpunktfilm-900: #006565;
+  --colors-blickpunktfilm-50: #FAF4E8;
+  --colors-blickpunktfilm-100: #F5E9D1;
+  --colors-blickpunktfilm-200: #EBD4A2;
+  --colors-blickpunktfilm-300: #E2BE74;
+  --colors-blickpunktfilm-400: #D8A945;
+  --colors-blickpunktfilm-500: #CE9317;
+  --colors-blickpunktfilm-600: #A57612;
+  --colors-blickpunktfilm-700: #7C580E;
+  --colors-blickpunktfilm-800: #4D3709;
+  --colors-blickpunktfilm-900: #2D2005;
   --colors-creativebase-50: #F0F3F8;
   --colors-creativebase-100: #dae3ef;
   --colors-creativebase-200: #b0caeb;
